@@ -13,6 +13,10 @@ Case Study: How does a bike-share navigate speedy success ?
  This analysis uses **Cyclistic’s historical bike-share trip** data provided by **Motivate International Inc.**, consisting of approximately **5.9 million individual trip records**. The dataset covers the period   from **January 2024 to December 2024,** providing a complete annual view of bike-share usage.
  As **first-party operational data collected directly through Cyclistic’s system**, the dataset is current and reliable. Due to data privacy constraints, demographic details about riders are not available.         Consequently, the analysis focuses on behavioral patterns, which are derived from key trip-level fields such as ride start and end timestamps.
 
+## Data Source
+The raw dataset for this case study is quite large. You can access the 
+cleaned version via Google Drive here: [View Dataset on Google Drive]https://drive.google.com/drive/folders/1OKzVGOCTLrcG248T17LVGSvhPLmJBbzP?usp=sharing
+
 ## Data Cleaning and Validation
    The dataset was initially reviewed in **Microsoft Excel** to assess structure, formatting, and data completeness. **Python (pandas)** was then used for systematic cleaning, transformation, and preparation of      trip-level records, while **Tableau** was used for visualization.
 
