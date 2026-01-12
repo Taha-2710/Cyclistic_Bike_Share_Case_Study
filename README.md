@@ -1,7 +1,7 @@
 # Cyclistic_Bike_Share_Case_Study
 Case Study: How does a bike-share navigate speedy success ?
 
-*Business Problem:
+# Business Problem:
 The business task is to analyze historical Cyclistic bike share data and to identify the behavioral pattern of bike use so that marketing team make targeted strategies to convert casual rider into members, there by increasing long-term profit of the organisation.
 
 # Key Stakeholders
