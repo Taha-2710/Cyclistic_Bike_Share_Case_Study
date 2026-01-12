@@ -50,7 +50,7 @@ Monthly datasets were standardized and merged into a consolidated, validated dat
 - Casual riders take longer rides, especially during warmer months  
 - Members show stable ride durations year-round  
 
-➡ Indicates leisure-driven vs utility-driven usage
+ Indicates leisure-driven vs utility-driven usage
 
 ---
 
@@ -58,14 +58,14 @@ Monthly datasets were standardized and merged into a consolidated, validated dat
 - Casual riders peak on weekends  
 - Members ride consistently across all days  
 
-➡ Habitual usage defines membership value
+ Habitual usage defines membership value
 
 ---
 
 #### Ride Frequency
 - Members complete significantly more trips overall  
 
-➡ Value comes from frequency, not ride length
+ Value comes from frequency, not ride length
 
 ---
 
@@ -90,7 +90,7 @@ Emphasize ease, spontaneity, and routine — not just cost savings.
 Casual riding peaks on weekends and during warmer months.  
 **Action:** Run seasonal and weekend-focused conversion campaigns.
 
-> **Right rider. Right message. Right time.**
+**Right rider. Right message. Right time.**
 
 ---
 
